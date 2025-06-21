@@ -131,4 +131,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  17 June
+
+
+Update: Corrected outdated URLs in contributing guidelines
