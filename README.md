@@ -135,4 +135,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update: Admin links
+
+
+Update: link is responsive and live
