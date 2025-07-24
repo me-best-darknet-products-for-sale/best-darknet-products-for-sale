@@ -149,4 +149,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  21 July 2025
+
+
+Update:  07/24/2025 11-54 Updated cloud provider reference URLs
